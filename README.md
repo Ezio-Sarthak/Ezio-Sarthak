@@ -7,8 +7,8 @@
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/55916430/123224059-0e78c480-d4ef-11eb-9528-11cc1553eaeb.gif" width="250" height="200" />
 
-- 🔭 I’m currently working on [Zulip Terminal](https://github.com/zulip/zulip-terminal)
-- 🌱 I’m currently learning **Django, React, Databases, and DSA**
+- 🔭 I’ worked at [Zulip Terminal](https://github.com/zulip/zulip-terminal)
+- 🌱 I’m currently learning **GraphQL, Kubernetes, Django, React, and DSA**
 - 👯 I’m looking to collaborate on **innovating projects/hackathons!**
 - 🤝 I’m looking for help with **COVID-related projects**
 - 💬 Ask me about **Linux and life, and I'd be happy to help :)**
